@@ -1,3 +1,4 @@
 2026/08/13
 update font / banner / category
 add dadane labele bashgahe moshtariyan be footer
+edit footer site link
